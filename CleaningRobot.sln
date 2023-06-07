@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleaningRobot", "CleaningRobot\CleaningRobot.csproj", "{5360C022-5E71-49CF-8ED4-CD73C6F18A7A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test", "Test\Test.csproj", "{7AB54AF7-8B7B-4561-997B-42DE75028401}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "readme", "readme", "{6703BB57-0395-47D4-A333-D82A9C4B737A}"
+	ProjectSection(SolutionItems) = preProject
+		readme.md = readme.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5360C022-5E71-49CF-8ED4-CD73C6F18A7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5360C022-5E71-49CF-8ED4-CD73C6F18A7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5360C022-5E71-49CF-8ED4-CD73C6F18A7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5360C022-5E71-49CF-8ED4-CD73C6F18A7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AB54AF7-8B7B-4561-997B-42DE75028401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AB54AF7-8B7B-4561-997B-42DE75028401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AB54AF7-8B7B-4561-997B-42DE75028401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AB54AF7-8B7B-4561-997B-42DE75028401}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5681026-DC37-4646-8695-A943FEBF964A}
+	EndGlobalSection
+EndGlobal
